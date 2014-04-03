@@ -55,7 +55,7 @@ Once you are done writing up the issue, feel free to claim it.
 ###submit a pull request.  See the format for 'issues.'  Make sure your pull request follows that format.
 
 
-#Here are a couple of screenshots of the app:
+#ScreenShots:
 
 ![Imgur](http://i.imgur.com/0qSTyh9.png)
 
