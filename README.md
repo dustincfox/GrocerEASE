@@ -4,10 +4,10 @@ The focus on this project was to use different technologies and an agile process
 
 Collaborators: 
 
-- Cristin O'Connor - https://github.com/cnocon
-- Diana Calvache - http://github.com/calvached
-- Tara Roys - https://github.com/tararoys
-- Dustin Fox
+- Cristin O'Connor - cristinjaneo@gmail.com
+- Diana Calvache - calvache.diana@gmail.com
+- Tara Roys - tlroys@gmail.com
+- Dustin Fox - dustincfox@gmail.com
 
 #How to start this app
 
