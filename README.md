@@ -4,10 +4,10 @@ The focus on this project was to use different technologies and an agile process
 
 Collaborators: 
 
-     Cristin O'Connor - https://github.com/cnocon
-     Diana Calvache - http://github.com/calvached
-     Tara Roys - https://github.com/tararoys
-     Dustin Fox
+Cristin O'Connor - https://github.com/cnocon
+Diana Calvache - http://github.com/calvached
+Tara Roys - https://github.com/tararoys
+Dustin Fox
 
 #How to start this app
 
@@ -55,7 +55,7 @@ Once you are done writing up the issue, feel free to claim it.
 ###submit a pull request.  See the format for 'issues.'  Make sure your pull request follows that format.
 
 
-Here are a couple of screenshots of the app:
+#Here are a couple of screenshots of the app:
 
 ![Imgur](http://i.imgur.com/0qSTyh9.png)
 
